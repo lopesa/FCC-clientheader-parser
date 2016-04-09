@@ -1,0 +1,26 @@
+{
+  "name": "FCC-Request-Header-Parser-exercise",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnstonbl01/clementinejs"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "5.0.0"
+  },
+  "keywords": [
+    "MEAN",
+    "Express",
+    "Node",
+    "javascript",
+    "boilerplate"
+  ],
+  "author": "Tony Lopes / clementine from Blake Johnston",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
