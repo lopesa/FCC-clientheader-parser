@@ -3,7 +3,7 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnstonbl01/clementinejs"
+    "url": "git+https://github.com/lopesa/FCC-clientheader-parser"
   },
   "scripts": {
     "start": "node server.js"
@@ -12,11 +12,9 @@
     "node": "5.0.0"
   },
   "keywords": [
-    "MEAN",
     "Express",
     "Node",
-    "javascript",
-    "boilerplate"
+    "Free Code Camp"
   ],
   "author": "Tony Lopes / clementine from Blake Johnston",
   "license": "MIT",
